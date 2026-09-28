@@ -4,9 +4,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-me.winewithcola.com-0e75b6?style=for-the-badge)](https://me.winewithcola.com)
 [![CV_ES](https://img.shields.io/badge/CV_ES-Download-0e75b6?style=for-the-badge)](https://drive.google.com/file/d/1IIfadxA_Rfvp0sj5kxU25tTsg0fSpiVy/view?usp=sharing)
-[![Github Principal](https://img.shields.io/badge/Github Principal-github.com/IamClaiment-0e75b6?style=for-the-badge)](https://github.com/IamClaiment)
+[![NEW GITHUB](https://img.shields.io/badge/NEW_GITHUB-IamClaiment-0e75b6?style=for-the-badge)](https://github.com/IamClaiment)
 
-<a href="https://github.com/IamClaiment" target="_blank">
+<a href="https://github.com/a23cliferand" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/climent-fern%C3%A1ndez-and%C3%BAjar/" target="_blank">
@@ -55,14 +55,14 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamClaiment/IamClaiment/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamClaiment/IamClaiment/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/IamClaiment/IamClaiment/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a23cliferand/a23cliferand/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/a23cliferand/a23cliferand/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/a23cliferand/a23cliferand/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
 
 ## Tarjetas de Desempeño
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IamClaiment&theme=radical&hide_border=true" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=a23cliferand&theme=radical&hide_border=true" alt="Streak stats" />
 </p>
